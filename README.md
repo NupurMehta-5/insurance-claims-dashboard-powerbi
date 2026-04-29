@@ -82,6 +82,14 @@ Delays and process inefficiencies are the primary drivers of customer complaints
 
 ---
 
+## 📂 Project File
+
+👉 [Download Power BI Dashboard](insurance-dashboard.pbix)
+
+> Open using Microsoft Power BI Desktop
+
+---
+
 ## 🚀 How to Use
 
 1. Open the `.pbix` file in Power BI Desktop
